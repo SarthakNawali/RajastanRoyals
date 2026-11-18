@@ -1,0 +1,644 @@
+[
+  {
+    "player_name": "Mitchell Starc",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Retained",
+    "reason": "Elite overseas pace spearhead and match-winner retained for the core attack"
+  },
+  {
+    "player_name": "Karun Nair",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to optimize domestic batting depth and recover purse"
+  },
+  {
+    "player_name": "Lokesh Rahul",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Retained",
+    "reason": "Marquee Indian batsman and core leadership candidate retained as a franchise pillar"
+  },
+  {
+    "player_name": "David Miller",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to the auction pool to manage overseas slot dynamics and budget"
+  },
+  {
+    "player_name": "Ben Duckett",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to free up overseas roster flexibility and auction purse"
+  },
+  {
+    "player_name": "Dushmantha Chameera",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation fast bowler released back into the auction pool"
+  },
+  {
+    "player_name": "Axar Patel",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Retained",
+    "reason": "Invaluable all-rounder and vital leadership group member retained as core cornerstone"
+  },
+  {
+    "player_name": "Kuldeep Yadav",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Retained",
+    "reason": "World-class wrist spinner retained as the primary weapon in the bowling attack"
+  },
+  {
+    "player_name": "Kyle Jamieson",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool due to fitness management and overseas purse adjustments"
+  },
+  {
+    "player_name": "Nitish Rana",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to the auction pool to restructure the middle-order batting lineup"
+  },
+  {
+    "player_name": "T Natarajan",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to explore younger or more versatile pace options"
+  },
+  {
+    "player_name": "Lungi Ngidi",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to streamline overseas fast-bowling combinations ahead of the auction"
+  },
+  {
+    "player_name": "Mukesh Kumar",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to create financial room for domestic auction strategy"
+  },
+  {
+    "player_name": "Prithvi Shaw",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to the auction pool following tactical evaluation of the opening slot"
+  },
+  {
+    "player_name": "Pathum Nissanka",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to optimize overseas quota allocation"
+  },
+  {
+    "player_name": "Gideon Peters",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Developing talent released back to the auction pool"
+  },
+  {
+    "player_name": "Ajay Mandal",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Squad depth all-rounder released to the auction pool"
+  },
+  {
+    "player_name": "Ashutosh Sharma",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to re-evaluate lower-order power-hitting options"
+  },
+  {
+    "player_name": "Auqib Nabi",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Young pace prospect released back into the auction pool"
+  },
+  {
+    "player_name": "Sameer Rizvi",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to streamline domestic batting resources"
+  },
+  {
+    "player_name": "Abishek Porel",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool while keeping options open for wicket-keeping roles"
+  },
+  {
+    "player_name": "Tristan Stubbs",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Retained",
+    "reason": "Explosive overseas finisher and dynamic fielder retained as a long-term core asset"
+  },
+  {
+    "player_name": "Rehan Ahmed",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to balance overseas spin resources"
+  },
+  {
+    "player_name": "Tripurana Vijay",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Young prospect released to the general auction pool"
+  },
+  {
+    "player_name": "Vipraj Nigam",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to reorganize spin bowling depth"
+  },
+  {
+    "player_name": "Sahil Parakh",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Emerging player released to the auction pool"
+  },
+  {
+    "player_name": "Madhav Tiwari",
+    "team_name": "Delhi Capitals",
+    "retention_status": "Not Retained",
+    "reason": "Developmental squad player released to auction pool"
+  },
+  {
+    "player_name": "Ishant Sharma",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to recover purse and manage veteran fast-bowling load"
+  },
+  {
+    "player_name": "Jos Buttler",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "World-class overseas marquee opening batter and match-winner"
+  },
+  {
+    "player_name": "Jason Holder",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to optimize overseas balance and purse allocation"
+  },
+  {
+    "player_name": "Jayant Yadav",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to explore younger spin options"
+  },
+  {
+    "player_name": "Kagiso Rabada",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Elite overseas pace enforcer retained for frontline bowling attack"
+  },
+  {
+    "player_name": "Luke Wood",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation overseas bowler released back to the auction pool"
+  },
+  {
+    "player_name": "M Shahrukh Khan",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Key domestic power-hitter and designated lower-order finisher"
+  },
+  {
+    "player_name": "Rahul Tewatia",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Core franchise asset known for clutch finishing and utility spin"
+  },
+  {
+    "player_name": "Prasidh Krishna",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Crucial Indian pace asset retained for middle and death overs"
+  },
+  {
+    "player_name": "Rashid Khan",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Global superstar spinner and leadership pillar, automatically retained"
+  },
+  {
+    "player_name": "Washington Sundar",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Valuable Indian spin-bowling all-rounder retained for tactical balance"
+  },
+  {
+    "player_name": "Glenn Phillips",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to balance overseas slot requirements"
+  },
+  {
+    "player_name": "Sai Kishore",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Consistent domestic left-arm spinner retained for spin department depth"
+  },
+  {
+    "player_name": "Mohammed Siraj",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Premier Indian fast bowler retained to lead the new-ball attack"
+  },
+  {
+    "player_name": "Kulwant Khejroliya",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to restructure pace reserves"
+  },
+  {
+    "player_name": "Tom Banton",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to free up overseas roster space"
+  },
+  {
+    "player_name": "Shubman Gill",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Franchise captain and premier marquee top-order batter"
+  },
+  {
+    "player_name": "Yarra Prithviraj",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to restructure backup bowling options"
+  },
+  {
+    "player_name": "Anuj Rawat",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to explore alternative backup wicketkeeper-batter options"
+  },
+  {
+    "player_name": "Kumar Kushagra",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to free up purse space"
+  },
+  {
+    "player_name": "Arshad Khan",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to reassess domestic all-rounder combinations"
+  },
+  {
+    "player_name": "Sai Sudharsan",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Retained",
+    "reason": "Prolific young Indian top-order run-scorer and core team pillar"
+  },
+  {
+    "player_name": "Nishant Kumar Sindhu",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool for squad optimization"
+  },
+  {
+    "player_name": "Gurnoor Brar",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as part of pace attack restructuring"
+  },
+  {
+    "player_name": "Ashok Sharma",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to manage squad size limits"
+  },
+  {
+    "player_name": "Connor Esterhuizen",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to free up overseas squad slots"
+  },
+  {
+    "player_name": "Manav Suthar",
+    "team_name": "Gujarat Titans",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as part of domestic talent refresh"
+  },
+  {
+    "player_name": "Mitchell Marsh",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Elite overseas all-rounder and vital match-winner retained for squad balance"
+  },
+  {
+    "player_name": "Mohammed Shami",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Premier Indian fast bowler and leader of the bowling attack"
+  },
+  {
+    "player_name": "Nicholas Pooran",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Explosive overseas finisher and cornerstone of the batting lineup"
+  },
+  {
+    "player_name": "Aiden Markram",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to recover purse and optimize overseas slots"
+  },
+  {
+    "player_name": "Avesh Khan",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to explore better Indian pace options"
+  },
+  {
+    "player_name": "George Linde",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released to free up foreign player slot"
+  },
+  {
+    "player_name": "Rishabh Pant",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Captain, marquee batter, and elite wicketkeeper retained as core franchise leader"
+  },
+  {
+    "player_name": "Josh Inglis",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as overseas wicketkeeper-batter slot is redundant"
+  },
+  {
+    "player_name": "Wanindu Hasaranga",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "World-class leg-spinner retained to lead the spin bowling department"
+  },
+  {
+    "player_name": "Manimaran Siddharth",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to scout younger domestic spin options"
+  },
+  {
+    "player_name": "Matthew Breetzke",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released back to auction to restructure overseas backup reserves"
+  },
+  {
+    "player_name": "Ayush Badoni",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Promising young Indian middle-order pillar retained for the long-term core"
+  },
+  {
+    "player_name": "Himmat Singh",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to free up domestic squad space"
+  },
+  {
+    "player_name": "Mohsin Khan",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool, keeping options open to re-acquire at a lower price"
+  },
+  {
+    "player_name": "Arjun Tendulkar",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to manage domestic fast bowling resources"
+  },
+  {
+    "player_name": "Anrich Nortje",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool due to high cost and fitness concerns"
+  },
+  {
+    "player_name": "Abdul Samad",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as the franchise looks for consistent finishers"
+  },
+  {
+    "player_name": "Shahbaz Ahmed",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to reallocate funds toward primary all-rounders"
+  },
+  {
+    "player_name": "Akash Singh",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as part of pace attack restructuring"
+  },
+  {
+    "player_name": "Mayank Yadav",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Retained",
+    "reason": "Exceptional express pace asset retained for his unmatched raw speed"
+  },
+  {
+    "player_name": "Akshat Raghuwanshi",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to refine uncapped domestic batting talent"
+  },
+  {
+    "player_name": "Arshin Kulkarni",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool with potential to buy back at base price"
+  },
+  {
+    "player_name": "Mukul Choudhary",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to clear uncapped player quota"
+  },
+  {
+    "player_name": "Naman Tiwari",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to reshape the young fast bowling group"
+  },
+  {
+    "player_name": "Digvesh Rathi",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool as part of fringe player clearance"
+  },
+  {
+    "player_name": "Prince Yadav",
+    "team_name": "Lucknow Super Giants",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to streamline squad size ahead of mega auction"
+  },
+  {
+    "player_name": "Ravindra Jadeja",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Elite franchise all-rounder and core match-winner"
+  },
+  {
+    "player_name": "Adam Milne",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to recover overseas purse"
+  },
+  {
+    "player_name": "Sandeep Sharma",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Reliable death-over specialist and domestic asset"
+  },
+  {
+    "player_name": "Dasun Shanaka",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to optimize overseas squad balance"
+  },
+  {
+    "player_name": "Shimron Hetmyer",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Explosive finisher and core overseas batter"
+  },
+  {
+    "player_name": "Jofra Archer",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Premier overseas pace spearhead and impact bowler"
+  },
+  {
+    "player_name": "Sam Curran",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Valuable multi-dimensional overseas all-rounder"
+  },
+  {
+    "player_name": "Riyan Parag",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Vital domestic middle-order pillar and spin option"
+  },
+  {
+    "player_name": "Tushar Deshpande",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to restructure pace attack"
+  },
+  {
+    "player_name": "Yashasvi Jaiswal",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "World-class opening batter and foundational franchise player"
+  },
+  {
+    "player_name": "Dhruv Jurel",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Dependable wicketkeeper-batter and future core leader"
+  },
+  {
+    "player_name": "Sushant Mishra",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to free up squad space"
+  },
+  {
+    "player_name": "Nandre Burger",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to evaluate better overseas fast bowling options"
+  },
+  {
+    "player_name": "Ravi Bishnoi",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Retained",
+    "reason": "Elite wrist spinner and key wicket-taking asset"
+  },
+  {
+    "player_name": "Kuldeep Sen",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool for purse management"
+  },
+  {
+    "player_name": "Donovan Ferreira",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to restructure backup overseas slots"
+  },
+  {
+    "player_name": "Yudhvir Singh",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool"
+  },
+  {
+    "player_name": "Shubham Dubey",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool"
+  },
+  {
+    "player_name": "Kwena Maphaka",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Released to auction pool to free up purse"
+  },
+  {
+    "player_name": "Yash Punja",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Lhuan Pretorius",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Emanjot Singh Chahal",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Aman Rao Perala",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Vignesh Puthur",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Vaibhav Sooryavanshi",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Young talent released to re-enter auction pool"
+  },
+  {
+    "player_name": "Ravi Singh",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  },
+  {
+    "player_name": "Brijesh Sharma",
+    "team_name": "Rajasthan Royals",
+    "retention_status": "Not Retained",
+    "reason": "Squad rotation player released"
+  }
+]
